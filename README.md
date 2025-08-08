@@ -8,4 +8,4 @@ Topics we will cover:
   - Topic 1
   - Topic 2
   - ----------------------
-  - Just adding a line above using ( ------------ )
+  - Just adding a line above using 
