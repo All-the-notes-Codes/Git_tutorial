@@ -7,3 +7,5 @@ Learning Git from Pragra.
 Topics we will cover:
   - Topic 1
   - Topic 2
+  - ----------------------
+  - we are going to have fun
